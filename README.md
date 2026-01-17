@@ -1,5 +1,5 @@
 
-[📦 GitHub Repository](https://github.com/your-username/spinal-case-converter-js)
+[📦 GitHub Repository](https://github.com/Rustom-yadav/spinal-case-converter)
 
 ---
 
